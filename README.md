@@ -12,7 +12,7 @@ A simple yet powerful certificate verification system built with PHP & MySQL. Th
 🔹 Frontend: HTML, CSS, Bootstrap<br>
 🔹 Database: MySQL<br>
 
-**👨‍💻 Developer Information**
+**👨‍💻 Developer Information**<br>
 🚀 Developer: Rakib Hasan<br>
 📍 Location: Dhaka, Bangladesh<br>
 🌐 Website: codewithrakib.com<br>
